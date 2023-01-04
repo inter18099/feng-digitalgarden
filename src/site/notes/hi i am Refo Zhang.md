@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hi-i-am-refo-zhang/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/hi-i-am-refo-zhang/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
