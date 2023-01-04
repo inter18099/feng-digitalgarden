@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/mygarden/","tags":"gardenEntry"}
+{"dg-publish":true,"dg-home":true,"permalink":"/mygarden/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
@@ -54,3 +54,5 @@
 更多的了解作者？请参考[白居易的著名诗词](https://www.shicile.com/top/baijuyi)。
 
 by Refo Zhang [about](/hi-i-am-refo-zhang/)
+
+[[hi i am Refo Zhang\|hi i am Refo Zhang]]
